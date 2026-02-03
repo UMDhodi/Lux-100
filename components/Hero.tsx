@@ -188,7 +188,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenTechSpecs, onExplore }) => {
         >
           <motion.img
             ref={imageRef}
-            src="/hero.png"
+            src="./hero.png"
             alt="The LUX-100 masterwork"
             className="w-full max-w-3xl drop-shadow-[0_85px_120px_rgba(0,0,0,0.12)] grayscale transition-all duration-1000 group-hover:grayscale-0 will-change-transform"
             style={{ transformStyle: 'preserve-3d' }}
