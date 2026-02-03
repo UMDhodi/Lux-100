@@ -1,0 +1,7 @@
+{
+  "name": "LUX-100: The Apex of Vision",
+  "description": "An ultra-exclusive, futuristic luxury portal for the world's most limited edition sunglasses. Only 100 pieces exist. Experience high-end aesthetics with an AI styling concierge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
