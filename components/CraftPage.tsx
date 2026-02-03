@@ -15,19 +15,19 @@ const categories: Category[] = [
     id: 'aethelgard',
     name: 'AETHELGARD',
     series: 'Series Alpha',
-    img: '/aethelgard.png'
+    img: './aethelgard.png'
   },
   {
     id: 'obsidian',
     name: 'OBSIDIAN',
     series: 'Series Beta',
-    img: '/obsidian.png'
+    img: './obsidian.png'
   },
   {
     id: 'aurora',
     name: 'AURORA',
     series: 'Series Gamma',
-    img: '/aurora.png'
+    img: './aurora.png'
   }
 ];
 

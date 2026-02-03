@@ -6,17 +6,17 @@ const features = [
   {
     title: "100 UNITS ONLY",
     desc: "A globally restricted release. Each piece is laser-engraved with its unique production sequence 001-100.",
-    img: "/100unit.png"
+    img: "./100unit.png"
   },
   {
     title: "AEROSPACE GRADE",
     desc: "Forged from ultra-pure Titanium Grade 5, offering weightless durability that transcends traditional eyewear.",
-    img: "/aerospace.png"
+    img: "./aerospace.png"
   },
   {
     title: "SAPPHIRE INFUSION",
     desc: "Our lenses are layered with synthetic sapphire, providing unmatched scratch resistance and optical clarity.",
-    img: "/infusion.png"
+    img: "./infusion.png"
   }
 ];
 

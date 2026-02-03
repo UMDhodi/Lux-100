@@ -17,21 +17,21 @@ const categories: Category[] = [
     name: 'AETHELGARD',
     series: 'Series Alpha',
     desc: 'The monolith of modern eyewear. Grade 5 Titanium chassis with sapphire optics.',
-    img: '/aethelgard.png'
+    img: './aethelgard.png'
   },
   {
     id: 'obsidian',
     name: 'OBSIDIAN',
     series: 'Series Beta',
     desc: 'Pure darkness captured. Hand-polished onyx composite with polarized obsidian lenses.',
-    img: '/obsidian.png'
+    img: './obsidian.png'
   },
   {
     id: 'aurora',
     name: 'AURORA',
     series: 'Series Gamma',
     desc: 'Liquid gold for the eyes. 18K white gold frame with iridescent atmospheric filters.',
-    img: '/aurora.png'
+    img: './aurora.png'
   }
 ];
 
