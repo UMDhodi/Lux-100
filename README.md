@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="lux100" />
+<img width="1200" height="475" alt="GHBanner" src="lux100.png" />
 </div>
 
 <h1 align="center" id="title">LUX-100</h1>
