@@ -8,6 +8,8 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
+<p>1. Clone the repository</p>
+
 ```
 git clone https://github.com/UMDhodi/Lux-100.git
 ```
@@ -15,8 +17,6 @@ git clone https://github.com/UMDhodi/Lux-100.git
 ```
 cd Lux-100
 ```
-
-<p>1. Clone the repository</p>
 
 <p>2. Install Dependencies</p>
 
